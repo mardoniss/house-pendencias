@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of House Garden",
+  "description": "Aplicativo de gerenciamento de obras focado em qualidade e logística.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
